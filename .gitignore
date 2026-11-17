@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment and configuration files
+.env
+.env.*
+!.env.example
+
+# Binary and compiled files
+*.exe
+*.dll
+*.so
+*.o
+*.a
+*.class
+*.bin
+
+# Archive files
+*.zip
+*.tar
+*.gz
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
